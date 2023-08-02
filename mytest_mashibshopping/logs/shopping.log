@@ -1,0 +1,834 @@
+[2021-11-10 11:37:55,239] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:38:36,408] 127.0.0.1  请求 http://127.0.0.1:5000/user/loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:38:40,352] 127.0.0.1  请求 http://127.0.0.1:5000/user/loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:50:09,708] 127.0.0.1  请求 http://127.0.0.1:5000/user/register?phone=13229452946&email=1033452343%40qq.com&username=123456&password=123456 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:50:09,708] 127.0.0.1  请求 http://127.0.0.1:5000/user/register?phone=13229452946&email=1033452343%40qq.com&username=123456&password=123456 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:50:09,760] 127.0.0.1  请求 http://127.0.0.1:5000/user/register?phone=13229452946&email=1033452343%40qq.com&username=123456&password=123456 	 INFO 在 user_resource 190 : 123456:用户名已经存在,请再换一个
+[2021-11-10 11:50:47,912] 127.0.0.1  请求 http://127.0.0.1:5000/user/loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:50:47,912] 127.0.0.1  请求 http://127.0.0.1:5000/user/loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:51:08,113] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:51:08,114] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:57:58,309] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:57:58,310] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:58:52,853] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:58:52,853] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:59:20,138] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 11:59:20,138] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:00:15,033] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:00:15,033] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:00:15,033] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 64 : 我得测试日志
+[2021-11-10 12:12:56,500] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:12:56,501] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:14:53,602] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:14:53,603] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:14:58,218] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:14:58,219] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:15:57,399] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxNzY5MywiZXhwIjoxNjM2NTIxMjkzfQ.eyJpZCI6Mn0.l6k4nuNr9n1EPTt_-BF00mxN1AEO6qT21SzwtQYWO6SXCN66m_F1aU9o6fP0ptdQ_52CtmSdnch5LejPRnL_9Q 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:15:57,400] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxNzY5MywiZXhwIjoxNjM2NTIxMjkzfQ.eyJpZCI6Mn0.l6k4nuNr9n1EPTt_-BF00mxN1AEO6qT21SzwtQYWO6SXCN66m_F1aU9o6fP0ptdQ_52CtmSdnch5LejPRnL_9Q 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:27:28,005] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:27:28,006] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:27:44,414] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:27:44,415] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:28:07,544] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxODQ0OCwiZXhwIjoxNjM2NTIyMDQ4fQ.eyJpZCI6Mn0.r4LbOMJ0FIZZa9rzQzHhw3NQSoDkWCWqryTQVpqaBdimFjLhoZhQprhCLlBD5WICed5K3HxHNXLGlFFao2wusg 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:28:07,544] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxODQ0OCwiZXhwIjoxNjM2NTIyMDQ4fQ.eyJpZCI6Mn0.r4LbOMJ0FIZZa9rzQzHhw3NQSoDkWCWqryTQVpqaBdimFjLhoZhQprhCLlBD5WICed5K3HxHNXLGlFFao2wusg 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:28:14,406] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxODQ0OCwiZXhwIjoxNjM2NTIyMDQ4fQ.eyJpZCI6Mn0.r4LbOMJ0FIZZa9rzQzHhw3NQSoDkWCWqryTQVpqaBdimFjLhoZhQprhCLlBD5WICed5K3HxHNXLGlFFao2wusg 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:28:14,406] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxODQ0OCwiZXhwIjoxNjM2NTIyMDQ4fQ.eyJpZCI6Mn0.r4LbOMJ0FIZZa9rzQzHhw3NQSoDkWCWqryTQVpqaBdimFjLhoZhQprhCLlBD5WICed5K3HxHNXLGlFFao2wusg 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:30:37,837] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:30:37,838] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:33:02,596] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:33:02,596] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:33:17,494] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxODc4MiwiZXhwIjoxNjM2NTIyMzgyfQ.eyJpZCI6Mn0.cU3Ev2_KysbeF-3yZhqUtSW3KCWRsze50mKfjzLTQkkvCVLt10MNAuvvZZ_1nNGN2hJEzvMC4yMMNC_4DLQgoA 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:33:17,494] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUxODc4MiwiZXhwIjoxNjM2NTIyMzgyfQ.eyJpZCI6Mn0.cU3Ev2_KysbeF-3yZhqUtSW3KCWRsze50mKfjzLTQkkvCVLt10MNAuvvZZ_1nNGN2hJEzvMC4yMMNC_4DLQgoA 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:42:30,068] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:44:05,243] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:45:17,388] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:46:41,928] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:47:21,178] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:54:23,702] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:54:27,137] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:54:45,707] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:55:13,988] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:59:39,420] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:59:39,420] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:59:54,180] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUyMDM3OSwiZXhwIjoxNjM2NTIzOTc5fQ.eyJpZCI6Mn0.gz4t4XPVC7_p8CLj9_C7jP7v4HJBQSWw1xdksobOG_Iy6yS8xexz6_07aFNQNOrUjodu33gkHvpmtofuZN9MOA 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 12:59:54,181] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello?token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTYzNjUyMDM3OSwiZXhwIjoxNjM2NTIzOTc5fQ.eyJpZCI6Mn0.gz4t4XPVC7_p8CLj9_C7jP7v4HJBQSWw1xdksobOG_Iy6yS8xexz6_07aFNQNOrUjodu33gkHvpmtofuZN9MOA 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:01:31,578] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:01:31,578] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:10:44,358] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:10:44,358] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:10:54,606] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:10:54,607] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:19:07,497] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:19:07,497] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:19:26,797] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:19:26,797] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:32:30,303] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:32:30,303] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:32:32,914] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:32:32,915] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:32:52,606] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:32:52,606] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:36:07,902] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:36:07,902] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:36:13,605] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:36:13,605] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:37:30,085] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:37:30,086] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:38:03,364] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:38:03,364] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:40:23,691] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:40:23,691] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:40:56,858] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin?username=123456&password=123456 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:40:56,858] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin?username=123456&password=123456 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:41:18,140] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin?username=123456&password=123456 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:41:18,140] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin?username=123456&password=123456 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:42:10,739] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:42:10,739] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:42:32,718] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:42:32,719] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:44:48,170] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:44:48,170] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:49:53,774] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:49:53,775] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:50:38,745] 127.0.0.1  请求 http://127.0.0.1:5000/user/login_user 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:50:38,746] 127.0.0.1  请求 http://127.0.0.1:5000/user/login_user 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:50:52,608] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:50:52,609] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:51:32,668] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid crypto padding
+[2021-11-10 13:51:32,668] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid crypto padding
+[2021-11-10 13:52:14,061] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:52:14,062] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:52:22,855] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:52:22,855] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 13:54:42,445] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid crypto padding
+[2021-11-10 13:54:42,447] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid crypto padding
+[2021-11-10 13:54:46,486] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid crypto padding
+[2021-11-10 13:54:46,487] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid crypto padding
+[2021-11-10 13:55:28,282] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:55:28,282] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:59:23,604] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 13:59:23,614] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 14:09:33,846] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 14:09:33,847] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 14:09:36,732] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 14:09:36,733] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : The specified alg value is not allowed
+[2021-11-10 14:10:02,265] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636528176}
+[2021-11-10 14:10:02,268] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636528176}
+[2021-11-10 14:10:02,271] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 DEBUG 在 user_resource 67 : get请求
+[2021-11-10 14:10:02,272] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 68 : 我得测试日志
+[2021-11-10 14:55:56,176] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 14:55:56,177] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-10 14:56:08,279] 127.0.0.1  请求 http://127.0.0.1:5000/user/ 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:08,282] 127.0.0.1  请求 http://127.0.0.1:5000/user/ 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:16,792] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:16,796] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:16,799] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 DEBUG 在 user_resource 66 : get请求
+[2021-11-10 14:56:16,799] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 67 : 我得测试日志
+[2021-11-10 14:56:21,193] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:21,196] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:24,623] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-10 14:56:24,626] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 36 : {'id': 2, 'exp': 1636530956}
+[2021-11-11 13:58:24,037] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=13229452948 	 INFO 在 token_jwt 38 : Signature verification failed
+[2021-11-11 13:58:24,039] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=13229452948 	 INFO 在 token_jwt 38 : Signature verification failed
+[2021-11-11 13:59:45,062] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=1322945291 	 INFO 在 token_jwt 38 : Signature verification failed
+[2021-11-11 13:59:45,062] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=1322945291 	 INFO 在 token_jwt 38 : Signature verification failed
+[2021-11-11 14:00:39,383] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595058 	 INFO 在 token_jwt 38 : Signature verification failed
+[2021-11-11 14:00:39,383] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595058 	 INFO 在 token_jwt 38 : Signature verification failed
+[2021-11-11 14:00:58,867] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595058 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:00:58,867] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595058 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:09:11,535] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:09:11,536] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:11:23,325] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:11:23,325] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:11:32,108] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:11:32,109] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:11:35,513] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 14:11:35,513] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,827] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,827] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,986] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,986] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,986] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,987] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,987] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,988] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,999] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:11,000] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:10,999] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:11,001] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:28,866] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:28,867] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:32,907] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:32,908] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:49,584] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:20:49,585] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:37:16,875] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:37:16,876] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:37:29,209] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:37:29,210] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:38:06,332] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:38:06,333] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:38:16,425] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:38:16,425] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:38:24,469] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 15:38:24,470] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 18:36:15,779] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-11 18:36:15,781] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:22:16,054] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:22:16,057] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:25:44,769] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:25:44,770] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:28:20,786] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:28:20,787] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:28:20,906] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:28:20,906] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:30:19,145] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:30:19,145] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:30:19,205] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:30:19,206] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:30:42,355] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:30:42,355] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:02,957] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:02,958] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:03,019] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:03,019] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:20,172] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:20,172] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:28,857] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:38:28,857] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,477] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,477] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,619] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,620] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,624] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,624] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,625] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,626] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,631] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,633] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,635] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:51,637] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:54,963] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:50:54,963] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:59:28,035] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 12:59:28,119] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:00:04,717] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:23:22,669] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:49:46,800] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:49:46,808] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:18,091] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:18,228] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:18,231] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:18,234] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:18,235] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:18,240] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:45,467] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:46,069] 127.0.0.1  请求 http://127.0.0.1:5000/favicon.ico 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:55,512] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:52:59,153] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:53:06,774] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:53:40,772] 127.0.0.1  请求 http://127.0.0.1:5000/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:53:46,157] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:54:43,177] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:04,137] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:04,139] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,487] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,488] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,666] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,667] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,674] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,674] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,681] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,682] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,691] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,691] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,696] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:57:22,697] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:18,057] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:18,057] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:18,133] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:18,134] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:36,166] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:36,167] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:44,284] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 13:58:44,284] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:06:20,019] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:06:20,020] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:07:20,400] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:07:20,401] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:07:20,412] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:07:20,413] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:08:47,504] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:08:47,504] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:10:17,906] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:10:17,907] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:13:52,633] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:13:52,634] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:13:57,069] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:13:57,069] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:13:57,136] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:13:57,137] 127.0.0.1  请求 http://127.0.0.1:5000/user/sms?phone=13229452942 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:14:16,913] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:14:16,913] 127.0.0.1  请求 http://127.0.0.1:5000/user/authorization 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:19:16,065] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:19:16,065] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:26:09,745] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:26:09,746] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:26:09,748] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 user_resource 188 : jordan:用户名已经存在,请再换一个
+[2021-11-12 14:26:32,331] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:26:32,331] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:30:20,977] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:30:20,978] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:32:16,741] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:32:16,741] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:46:24,789] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:46:24,790] 127.0.0.1  请求 http://127.0.0.1:5000/user/user_loggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:47:03,419] 127.0.0.1  请求 http://127.0.0.1:5000/user/oggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:47:03,420] 127.0.0.1  请求 http://127.0.0.1:5000/user/oggin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:47:08,408] 127.0.0.1  请求 http://127.0.0.1:5000/user/ogin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:47:08,408] 127.0.0.1  请求 http://127.0.0.1:5000/user/ogin 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:47:17,697] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:47:17,698] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:48:10,512] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:48:10,513] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:48:30,857] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636703237}
+[2021-11-12 14:48:30,861] 127.0.0.1  请求 http://127.0.0.1:5000/user/IsExits?phone=18028595059 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636703237}
+[2021-11-12 14:48:57,054] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:48:57,054] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:50:37,938] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:50:37,938] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:50:49,181] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:50:49,182] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:53:13,162] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:53:13,162] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:59:16,333] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:59:16,334] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:59:43,215] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 14:59:43,216] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:09:08,819] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:09:08,819] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:10:28,859] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:10:28,860] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:13:12,594] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:13:12,595] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:15:50,478] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:15:50,479] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:16:51,683] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:16:51,683] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:19:09,142] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:19:09,143] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:20:15,301] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:20:15,303] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:48:58,106] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:48:58,108] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:50:23,332] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:50:23,334] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:51:17,212] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:51:17,213] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:55:08,129] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:55:08,131] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:55:43,840] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:55:43,841] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 15:55:44,182] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,186] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,195] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,206] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,209] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,216] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,234] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,235] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,244] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 15:55:44,244] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636707344}
+[2021-11-12 16:09:12,771] 127.0.0.1  请求 http://127.0.0.1:5000/user/loginOut 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:09:12,772] 127.0.0.1  请求 http://127.0.0.1:5000/user/loginOut 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:09:26,375] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:09:26,376] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:09:26,526] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,530] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,545] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,549] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,559] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,563] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,573] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,577] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,587] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:09:26,591] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636708166}
+[2021-11-12 16:20:19,430] 127.0.0.1  请求 http://127.0.0.1:5000/user/loginOut 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:20:19,431] 127.0.0.1  请求 http://127.0.0.1:5000/user/loginOut 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:34:12,247] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:34:12,248] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:34:36,786] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 16:34:36,787] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 17:28:09,207] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 17:28:09,210] 127.0.0.1  请求 http://127.0.0.1:5000/user/login 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-12 17:28:09,451] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,459] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,463] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,476] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,480] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,490] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,510] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,513] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,518] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:28:09,521] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:30:25,626] 127.0.0.1  请求 http://127.0.0.1:5000/goods/goods_specification 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:30:25,630] 127.0.0.1  请求 http://127.0.0.1:5000/goods/goods_specification 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:30:25,643] 127.0.0.1  请求 http://127.0.0.1:5000/goods/goods_list?page=1&size=30 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-12 17:30:25,647] 127.0.0.1  请求 http://127.0.0.1:5000/goods/goods_list?page=1&size=30 	 INFO 在 token_jwt 36 : {'id': 3, 'exp': 1636712889}
+[2021-11-16 16:36:20,511] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:36:20,512] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:36:21,089] 127.0.0.1  请求 http://127.0.0.1:5000/favicon.ico 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:36:21,089] 127.0.0.1  请求 http://127.0.0.1:5000/favicon.ico 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:39:39,583] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:39:39,584] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:39:44,261] 127.0.0.1  请求 http://127.0.0.1:5000/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:39:44,261] 127.0.0.1  请求 http://127.0.0.1:5000/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:41:33,904] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:41:33,905] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:41:36,970] 127.0.0.1  请求 http://127.0.0.1:5000/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:41:36,971] 127.0.0.1  请求 http://127.0.0.1:5000/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:43:12,071] 127.0.0.1  请求 http://127.0.0.1:5000/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:43:12,071] 127.0.0.1  请求 http://127.0.0.1:5000/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:43:37,323] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:43:37,323] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:43:37,612] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:43:37,613] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:05,936] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:05,936] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:16,660] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:16,661] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:23,215] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:23,215] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:34,593] 127.0.0.1  请求 http://127.0.0.1:5000/users/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:44:34,593] 127.0.0.1  请求 http://127.0.0.1:5000/users/hello 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:47:55,385] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:47:55,386] 127.0.0.1  请求 http://127.0.0.1:5000/ 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:48:10,587] 127.0.0.1  请求 http://127.0.0.1:5000/index//category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:48:10,588] 127.0.0.1  请求 http://127.0.0.1:5000/index//category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:48:10,594] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:48:10,594] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:56:57,670] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:56:57,671] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:59:22,341] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-16 16:59:22,341] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 token_jwt 38 : Invalid token type. Token must be a <class 'bytes'>
+[2021-11-19 20:04:57,639] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,641] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,830] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,833] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,835] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,835] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,836] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,836] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,861] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:57,862] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:58,141] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:04:58,143] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,503] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,503] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,588] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,589] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,593] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,593] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,598] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,601] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,607] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,609] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,896] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:05:23,896] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,118] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,118] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,282] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,284] 127.0.0.1  请求 http://127.0.0.1:5000/cart/user_cart 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,285] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,300] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,301] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,302] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_recommend_product 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,312] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,313] 127.0.0.1  请求 http://127.0.0.1:5000/index/recommend_subject 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,587] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-19 20:07:27,589] 127.0.0.1  请求 http://127.0.0.1:5000/index/category 	 INFO 在 request_wares 25 : 没有 token 
+[2021-11-21 16:21:03,137] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 index_resource 238 : get() got an unexpected keyword argument 'id'
+[2021-11-21 16:21:56,129] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 index_resource 238 : get() got an unexpected keyword argument 'product_id'
+[2021-11-22 21:49:33,025] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 user_resource 200 : jordan:用户名已经存在,请再换一个
+[2021-11-22 22:28:44,973] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 user_resource 211 : <User 1>:用户名已经存在,请再换一个
+[2021-11-22 22:35:29,383] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 user_resource 206 : handsome:用户名已经存在,请再换一个
+[2021-11-23 17:23:10,552] 127.0.0.1  请求 http://127.0.0.1:5000/user/register 	 INFO 在 user_resource 206 : linshuai:用户名已经存在,请再换一个
+[2022-01-06 14:16:20,728] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-06 14:17:31,997] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-06 14:25:10,748] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-06 14:25:24,603] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello%0A 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-06 15:58:26,309] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-06 18:00:57,955] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-08 00:16:51,100] 192.168.0.103  请求 http://192.168.0.103:8080/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-15 19:15:37,279] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-15 21:14:35,927] 127.0.0.1  请求 http://127.0.0.1:5000/user/hello 	 INFO 在 user_resource 65 : 我得测试日志
+[2022-01-20 19:08:22,387] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:13:59,346] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:15:06,294] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:31:21,902] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:31:41,811] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:31:51,418] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:43:37,941] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 19:53:45,056] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 20:32:20,734] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 20:57:09,912] 127.0.0.1  请求 http://127.0.0.1:5000/index/home_new_product 	 ERROR 在 app 1892 : Exception on /index/home_new_product [GET]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 471, in wrapper
+    return self.make_response(data, code, headers=headers)
+  File "D:\env\flask_env\lib\site-packages\flask_restful\__init__.py", line 500, in make_response
+    resp = self.representations[mediatype](data, *args, **kwargs)
+  File "D:\xiaolin_repo\xiaolin_repo\mytest_mashibshopping\comment\utils\output.py", line 11, in output_json
+    if 'message' not in data: #自动将状态200封装到json中
+TypeError: argument of type 'NoneType' is not iterable
+[2022-01-20 20:57:18,784] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 20:58:16,955] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 21:00:21,946] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 21:20:09,698] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 21:21:54,966] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 21:26:13,357] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 21:31:20,506] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 23:49:57,249] 127.0.0.1  请求 http://127.0.0.1:5000/goods/goods_specification 	 ERROR 在 app 1892 : Exception on /goods/goods_specification [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-20 23:49:57,285] 127.0.0.1  请求 http://127.0.0.1:5000/goods/goods_list?page=1&size=30 	 ERROR 在 app 1892 : Exception on /goods/goods_list [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 01:34:40,373] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 01:38:23,056] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 12:42:44,879] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 13:01:37,550] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 14:00:59,259] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 14:01:04,200] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
+[2022-01-21 14:03:33,319] 127.0.0.1  请求 http://127.0.0.1:5000/user/isExist 	 ERROR 在 app 1892 : Exception on /user/isExist [POST]
+Traceback (most recent call last):
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 1948, in full_dispatch_request
+    rv = self.preprocess_request()
+  File "D:\env\flask_env\lib\site-packages\flask\app.py", line 2242, in preprocess_request
+    rv = func()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 229, in csrf_protect
+    self.protect()
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 261, in protect
+    validate_csrf(self._get_csrf_token())
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 89, in validate_csrf
+    message="A secret key is required to use CSRF.",
+  File "D:\env\flask_env\lib\site-packages\flask_wtf\csrf.py", line 136, in _get_config
+    raise RuntimeError(message)
+RuntimeError: A secret key is required to use CSRF.
